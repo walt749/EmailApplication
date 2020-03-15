@@ -86,7 +86,7 @@ public class EmailApp extends JFrame {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 494, 542);
 		contentPane = new JPanel();
-		contentPane.setBackground(new Color(32, 136, 186 ));
+		contentPane.setBackground(new Color(34, 136, 186 ));
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
 		setContentPane(contentPane);
 		contentPane.setLayout(null);
